@@ -1,0 +1,20 @@
+{
+  "name": "cs02",
+  "version": "1.0.0",
+  "description": "Computer Science - Case study 02 - Mencari angka 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "computer",
+    "science",
+    "javascript",
+    "algorithm"
+  ],
+  "author": "Muhammad Affandes <affandes@uin-suska.ac.id>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.3"
+  }
+}
